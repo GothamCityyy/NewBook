@@ -1,0 +1,28 @@
+Visuals
+-BAckground to website
+- Font
+- Picture of me
+- Picture of book
+- Countdown timer/book launch
+
+Introduction to book/preview
+- Title
+- caption
+- Body 
+
+
+About the Author
+- Name
+- Background
+? First time author/publisher
+- Hook
+
+Preorder
+- Link
+- button
+
+
+copyright/publication
+- Name
+- copyright symbol
+- year

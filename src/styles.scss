@@ -1,0 +1,35 @@
+$font-1: "Cinzel Decorative", cursive;
+$font-2: "Trochut", cursive;
+$font-3: "New Rocker", cursive;
+$font-4: "IBM Plex Serif", serif;
+$font-5: "Chivo", sans-serif;
+$font-6: "Quantico", sans-serif;
+
+body {
+  font-family:$font-6;
+  background: rgb(36, 0, 14);
+  background: linear-gradient(
+    180deg,
+    rgba(36, 0, 14, 1) 12%,
+    rgba(121, 9, 33, 1) 48%,
+    rgba(255, 130, 0, 1) 93%
+  );
+  color: white;
+}
+section{
+
+padding:20px 10px;
+}
+
+.introduction .title{
+
+  font-size:80px;
+  font-family:$font-1
+}
+
+.introduction .image{
+
+  width: 300px;
+  height:450px;
+  background-image:url(/images/bookcover.jpg)
+}

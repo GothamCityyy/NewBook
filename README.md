@@ -1,2 +1,0 @@
-# NewBook
-Created with CodeSandbox
